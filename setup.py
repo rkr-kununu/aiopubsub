@@ -12,7 +12,7 @@ setup(
 	name = 'aiopubsub',
 	version = read('version.txt').strip(),
 	description = 'Simple pubsub pattern for asyncio applications',
-	long_description = read('README.rst'),
+	long_description = "",
 	author = 'Quantlane',
 	author_email = 'code@quantlane.com',
 	url = 'https://github.com/qntln/aiopubsub',
